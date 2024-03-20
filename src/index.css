@@ -1,0 +1,18 @@
+.todo{
+    width: 500px;
+    height: auto;
+    background-color: rgb(232, 243, 255);
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.app{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 590px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+
